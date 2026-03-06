@@ -7,6 +7,8 @@ bs4
 python-dotenv
 uvloop
 aiocron
+VLifeGram
+hydrogram
 croniter
 wget
 numpy
@@ -25,6 +27,4 @@ aiosqlite
 aioshutil
 tgcrypto-pyrofork
 qrcode
-pyrogram-navy
 cloudscraper25
-git+https://github.com/naya1503/hydrogram@dev
